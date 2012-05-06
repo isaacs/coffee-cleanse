@@ -1,0 +1,8 @@
+{
+  "name": "coffee-cleanse",
+  "version": "1.2.5",
+  "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
+  "devDependencies": { "coffee-script":"" },
+  "main": "cleanse.js",
+  "scripts": { "test": "node test.js" }
+}
