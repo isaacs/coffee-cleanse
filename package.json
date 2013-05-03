@@ -4,5 +4,6 @@
   "author": "Isaac Z. Schlueter <i@izs.me> (http://blog.izs.me/)",
   "devDependencies": { "coffee-script":"" },
   "main": "cleanse.js",
-  "scripts": { "test": "node test.js" }
+  "scripts": { "test": "node test.js" },
+  "license":"bsd"
 }
